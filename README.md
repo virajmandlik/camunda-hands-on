@@ -605,5 +605,3 @@ if (orderAmount > 1000) {
 - The `/grievance` endpoint is unauthenticated and intended for local learning.
   Before any non-local use, add auth (API key / OAuth), input validation, and
   rate limiting.
-#   c a m u n d a - h a n d s - o n  
- 
