@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "label": "Rating",
+      "type": "number",
+      "layout": {
+        "row": "Row_1vry1dl",
+        "columns": null
+      },
+      "id": "Field_1hi70nh",
+      "key": "rating",
+      "defaultValue": 0
+    }
+  ],
+  "type": "default",
+  "id": "rating.form",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.9.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.46.1"
+  },
+  "schemaVersion": 19
+}
